@@ -26,8 +26,18 @@ I’m passionate about modernizing legacy systems, optimizing performance, and c
 
 ### 🛠️ Tech Stack  
 
-**Languages:** JavaScript, TypeScript, HTML5, CSS3, SCSS, Python, Java, SQL  
-**Frameworks & Libraries:** React, Redux, Node.js, Express.js, Next.js, Jest, Enzyme, React Testing Library, Tailwind CSS,
+**Languages:** 
+
+[![Languages](https://skillicons.dev/icons?i=js,ts,html,css,sass,py,java,cs,c,mysql&theme=dark&perline=9)](https://skillicons.dev)
+
+**Frameworks & Libraries:**
+
+[![Frameworks & Libraries](https://skillicons.dev/icons?i=react,redux,nodejs,express,nextjs,jest,tailwind,bootstrap&theme=dark&perline=9)](https://skillicons.dev)
+
+**Tools:**
+
+[![Tools](https://skillicons.dev/icons?i=vscode,visualstudio,webstorm,idea,docker,jenkins,ai,aws,gcp,kafka,github,git,npm,babel,bash,yarn,unity&theme=dark&perline=9)](https://skillicons.dev)
+
 
 ---
 
@@ -40,10 +50,11 @@ Built with **React**, **TypeScript**, and **Node.js**, featuring secure API inte
 ---
 
 ### 📫 Get in Touch  
-
-- **LinkedIn:** [linkedin.com/in/sinanliu](#)  
-- **GitHub:** [github.com/sinanliu001](https://github.com/sinanliu001)  
+[![Tools](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/simon-l-8377b3170/)
+[![Tools](https://skillicons.dev/icons?i=github&theme=dark)](https://github.com/sinanliu001)
+<!--
 - **Email:** *(add your preferred email here)*  
+-->
 
 ---
 
