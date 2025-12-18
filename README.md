@@ -52,7 +52,7 @@ A responsive dashboard that visualizes patient information for healthcare teams.
 Built with **React**, **Next.js**, **Chart.js** and **Node.js**, featuring secure API integration and dynamic data visualization for improved patient management.
 
 
-**[portfolio](https://github.com/sinanliu001/heath-care-patients-dashboard)**  
+**[portfolio](https://sinanliu001.github.io/react-portfolio/)**  
 A personal portfolio web application showcasing my professional experience, technical skills, and featured projects. The goal of this project is to present my work in a clear, modern, and user-friendly way while emphasizing performance, accessibility, and clean UI design.  
 
 Built with **React**, **Next.js**, and **Node.js**.
