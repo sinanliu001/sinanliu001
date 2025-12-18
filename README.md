@@ -66,7 +66,7 @@ Built with **Angular**, and **TypeScript**.
 **[HoshinoBot](https://github.com/sinanliu001/hoshinobot)**  
 A QQ-bot for Princess Connect Re:Dive based on [Nonebot](https://github.com/nonebot/nonebot), a program that connects to the QQ platform and automates tasks or adds interactive features to a QQ server. Think of it as a virtual assistant or helper for your server. Bots can respond to commands, moderate chats, play music, track stats, and much more. 
 
-Core Function: Program interact with Discord through the Discord API. They can send messages, manage roles, kick/ban users, and perform other actions programmatically.
+Core Function: Program interact with Discord through the QQ API. They can send messages, manage roles, kick/ban users, and perform other actions programmatically.
 
 Built with **Python**.
 
