@@ -42,10 +42,33 @@ I’m passionate about modernizing legacy systems, optimizing performance, and c
 ---
 
 ### 🚀 Featured Project  
+**[book-e-commerce-application](https://github.com/sinanliu001/rent-application)**  
+An E commerce web application for managing book store. (In Processing) 
+Built with **.Net**, and **C#**.
 
 **[Healthcare Patients Dashboard](https://github.com/sinanliu001/heath-care-patients-dashboard)**  
 A responsive dashboard that visualizes patient information for healthcare teams.  
-Built with **React**, **TypeScript**, and **Node.js**, featuring secure API integration and dynamic data visualization for improved patient management.
+
+Built with **React**, **Next.js**, **Chart.js** and **Node.js**, featuring secure API integration and dynamic data visualization for improved patient management.
+
+
+**[portfolio](https://github.com/sinanliu001/heath-care-patients-dashboard)**  
+A personal portfolio web application showcasing my professional experience, technical skills, and featured projects. The goal of this project is to present my work in a clear, modern, and user-friendly way while emphasizing performance, accessibility, and clean UI design.  
+
+Built with **React**, **Next.js**, and **Node.js**.
+
+**[rent-application](https://github.com/sinanliu001/rent-application)**  
+A web application for managing rental properties and tenant applications. The app allows users to submit and track rental applications, and view property details,
+Learning Application. 
+
+Built with **Angular**, and **TypeScript**.
+
+**[HoshinoBot](https://github.com/sinanliu001/hoshinobot)**  
+A QQ-bot for Princess Connect Re:Dive based on [Nonebot](https://github.com/nonebot/nonebot), a program that connects to the QQ platform and automates tasks or adds interactive features to a QQ server. Think of it as a virtual assistant or helper for your server. Bots can respond to commands, moderate chats, play music, track stats, and much more. 
+
+Core Function: Program interact with Discord through the Discord API. They can send messages, manage roles, kick/ban users, and perform other actions programmatically.
+
+Built with **Python**.
 
 ---
 
