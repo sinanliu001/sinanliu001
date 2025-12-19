@@ -42,7 +42,7 @@ I’m passionate about modernizing legacy systems, optimizing performance, and c
 ---
 
 ### 🚀 Featured Project  
-**[book-e-commerce-application](https://github.com/sinanliu001/rent-application)**  
+**[book-e-commerce-application](https://github.com/sinanliu001/e-commerce-book-application)**  
 An E commerce web application for managing book store. (In Processing) 
 Built with **.Net**, and **C#**.
 
