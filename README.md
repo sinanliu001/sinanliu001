@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Nash
 
-💻 Full Stack Engineer | Frontend-Focused  
+💻 Full Stack Engineer
 🚀 Passionate about scalable systems, micro frontends, and performance optimization  
 📍 Based in the United States  
 
